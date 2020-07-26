@@ -1,0 +1,5 @@
+aud/**.ogg
+aud_wav/**.wav
+images/**.jpg
+db.json
+**.zip
