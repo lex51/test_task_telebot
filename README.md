@@ -9,3 +9,8 @@
 refactoring
 
 requirements.txt
+
+
+бот в ТГ - ***@lex_08275_bot***
+
+мой контакт - ***@lex_for_free***
